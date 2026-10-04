@@ -6,7 +6,7 @@ Manager, Technology & Transformation.
 
 I connect hospitality operations, enterprise technology and practical automation. My background spans more than 20 years in international hospitality, including hotel and cruise operations and enterprise software delivery across Europe, the Middle East, Australia and New Zealand.
 
-My systems experience spans Oracle OPERA Cloud and OPERA 5, Infor CloudSuite HMS, Hilton OnQ and Bluvista, alongside the wider hospitality technology ecosystem.
+My systems experience spans Oracle Hospitality Tech and OPERA PMS, Infor CloudSuite HMS, alongside the wider hospitality technology ecosystem.
 
 ## What I work on
 
