@@ -1,32 +1,31 @@
 # austugal
 
-**Technology & Digital Transformation Manager | Enterprise Systems | Hospitality Technology | AI & Automation**
+**AI & Automation | Python & SQL | Enterprise Systems | Digital Transformation**
 
-Manager, Technology & Transformation.
+I turn complex systems, data and operational knowledge into practical tools. My work combines technology delivery with hands-on exploration of AI, automation, software and knowledge management.
 
-I connect hospitality operations, enterprise technology and practical automation. My background spans more than 20 years in international hospitality, including hotel and cruise operations and enterprise software delivery across Europe, the Middle East, Australia and New Zealand.
+I’m a technology and digital transformation manager with an international background in enterprise software and operations. I connect business needs with technical implementation, from discovery and integration through testing, adoption and support.
 
-My systems experience spans Oracle Hospitality Tech and OPERA PMS, Infor CloudSuite HMS, alongside the wider hospitality technology ecosystem.
+## What I work with
 
-## What I work on
+- **AI & automation:** knowledge assistants, workflow automation, AI-assisted development and practical prototypes.
+- **Python & SQL:** scripting, data queries, analysis, validation and repeatable operational tasks.
+- **Web & integration:** HTML, CSS, JavaScript, REST APIs, data mapping and connected systems.
+- **Enterprise delivery:** requirements, configuration, migration, testing, training and service delivery.
 
-- Digital transformation, implementation planning and service delivery.
-- PMS, POS, payments, finance, reporting and connected hotel systems.
-- Systems integration, data mapping, migration and country-specific fiscal configuration.
-- Testing, training, cutover, go-live and hypercare.
-- AI knowledge assistants, workflow automation and reusable operational tools.
+Hospitality is one of my areas of deep experience, spanning PMS, POS, payments, finance, reporting and integrations. My systems background includes Oracle Hospitality and OPERA, Infor CloudSuite HMS, Hilton OnQ and Bluvista.
 
-## Independent projects
+## Projects you can explore
 
-| Project | Purpose |
+| Project | What it does |
 | --- | --- |
-| [PocketBrain](https://github.com/austugal/pocketbrain) | A browser workspace for notes, search, connections and revision cards |
-| [Aperture](https://aperture-operacloud.pages.dev/) | Hospitality technology references focused on OPERA Cloud |
-| [Savor Atlas](https://savor-atlas.pages.dev/) | Interactive cooking and recipes · live website |
-| [Shipwrecks](https://austugal.github.io/shipwrecks/) | Maritime history and map exploration |
+| [PocketBrain](https://austugal.github.io/pocketbrain/) · [source](https://github.com/austugal/pocketbrain) | Import and search notes, explore connections and practise recall in your browser |
+| [Shipwrecks](https://austugal.github.io/shipwrecks/) · [source](https://github.com/austugal/shipwrecks) | Explore maritime history through an interactive map |
+| [Savor Atlas](https://savor-atlas.pages.dev/) · [showcase](https://github.com/austugal/savor-atlas) | Interactive cooking and recipe discovery |
+| [Aperture](https://aperture-operacloud.pages.dev/) | An independent hospitality technology reference library |
 
-I build practical tools, document their limits and welcome constructive contributions.
+I value readable code, clear documentation, traceable sources and tools people can actually use. Project documentation distinguishes working features, experiments and future plans.
 
 [LinkedIn](https://www.linkedin.com/in/tiagofitas76/) · [Public repositories](https://github.com/austugal?tab=repositories)
 
-Projects shared here are personal work. They do not represent any company or imply vendor endorsement.
+Personal projects. No company representation or vendor endorsement.
