@@ -2,7 +2,7 @@
 
 **Technology & Digital Transformation Manager | Enterprise Systems | Hospitality Technology | AI & Automation**
 
-Manager, Technology & Transformation at Deloitte Portugal, starting 6 October 2026.
+Manager, Technology & Transformation.
 
 I connect hospitality operations, enterprise technology and practical automation. My background spans more than 20 years in international hospitality, including hotel and cruise operations and enterprise software delivery across Europe, the Middle East, Australia and New Zealand.
 
