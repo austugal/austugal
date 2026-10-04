@@ -29,4 +29,4 @@ I build practical tools, document their limits and welcome constructive contribu
 
 [LinkedIn](https://www.linkedin.com/in/tiagofitas76/) · [Public repositories](https://github.com/austugal?tab=repositories)
 
-Projects shared here are personal work. They do not represent Deloitte or imply vendor endorsement.
+Projects shared here are personal work. They do not represent any company or imply vendor endorsement.
