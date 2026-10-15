@@ -1,4 +1,4 @@
-![A robot writes austugal and "In AI we trust"](assets/profile-robot.gif)
+![A robot writes austugal and "In AI we trust"](assets/profile-robot.gif?v=cac445b6)
 
 # austugal
 
