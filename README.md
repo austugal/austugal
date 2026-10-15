@@ -1,3 +1,5 @@
+![A robot writes austugal and "In AI we trust"](assets/profile-robot.gif)
+
 # austugal
 
 **AI & Automation | Python & SQL | Enterprise Systems | Digital Transformation**
