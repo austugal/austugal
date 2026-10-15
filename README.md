@@ -15,7 +15,7 @@ I’m a technology and digital transformation manager with an international back
 - **Web & integration:** HTML, CSS, JavaScript, REST APIs, data mapping and connected systems.
 - **Enterprise delivery:** requirements, configuration, migration, testing, training and service delivery.
 
-Hospitality is one of my areas of deep experience, spanning PMS, POS, payments, finance, reporting and integrations. My systems background includes Oracle Hospitality and OPERA, Infor CloudSuite HMS, Hilton OnQ and Bluvista.
+Hospitality technology is a core part of my background. I’ve worked with Oracle Hospitality systems—including OPERA Cloud, OPERA 5, Fidelio, MICROS POS and Simphony—as well as Infor HMS, Hilton OnQ, Bluvista, Hilstar and MARSHA. My experience spans PMS/POS, payments, finance and reporting; integrations and data mapping across CRM, revenue-management and booking-engine platforms; and hotel IT, infrastructure, key-card encoders and in-room TV systems.
 
 ## Projects you can explore
 
