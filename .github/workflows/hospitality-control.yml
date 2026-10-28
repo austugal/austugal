@@ -1,0 +1,36 @@
+name: Austugal Control checks
+on:
+  push:
+    paths: ['hospitality-control/**', '.github/workflows/hospitality-control.yml']
+  pull_request:
+    paths: ['hospitality-control/**', '.github/workflows/hospitality-control.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    name: Python ${{ matrix.python }} / ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python: ['3.12', '3.13']
+    defaults:
+      run:
+        working-directory: hospitality-control
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Backend and HTTP tests
+        run: python -m unittest discover -s tests -v
+      - name: Frontend view and request tests
+        run: node --test tests/frontend.test.cjs
+      - name: JavaScript syntax
+        run: node --check static/app.js

@@ -21,6 +21,7 @@ Hospitality technology is a core part of my background. I’ve worked with Oracl
 
 | Project | What it does |
 | --- | --- |
+| [Austugal Control](hospitality-control/) | Hotel workflow application with approvals, persistent state, scoped agent access and automated tests |
 | [PocketBrain](https://austugal.github.io/pocketbrain/) · [source](https://github.com/austugal/pocketbrain) | Import and search notes, explore connections and practise recall in your browser |
 | [Shipwrecks](https://austugal.github.io/shipwrecks/) · [source](https://github.com/austugal/shipwrecks) | Explore maritime history through an interactive map |
 | [Savor Atlas](https://savor-atlas.pages.dev/) · [showcase](https://github.com/austugal/savor-atlas) | Interactive cooking and recipe discovery |
