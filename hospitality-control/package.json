@@ -1,0 +1,11 @@
+{
+  "name": "austugal-control",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hotel workflow control with a Python backend",
+  "scripts": {
+    "dev": "python3 dev.py --port 3000 --data dev-data",
+    "test": "python3 -m unittest discover -s tests -v",
+    "check": "node --check static/app.js"
+  }
+}
